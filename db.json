@@ -4,7 +4,7 @@
       "firstName": "Michelle",
       "lastName": "Conchina",
       "birthDay": "1995-11-15",
-      "emailAddress": "mich@gmail.com"
+      "emailAddress": "mich@gmail.com",
       "mobile": "+639276716533",
       "address": "Bulacan"
   },
@@ -13,7 +13,7 @@
       "firstName": "Alex",
       "lastName": "Gaskarth",
       "birthDay": "1995-12-14",
-      "emailAddress": "alex@gmail.com"
+      "emailAddress": "alex@gmail.com",
       "mobile": "+639276714444",
       "address": "Bulacan"
   }
