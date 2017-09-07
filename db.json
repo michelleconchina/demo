@@ -1,5 +1,4 @@
-{
-  "list" : [
+[
     { 
       "id": 1,
       "firstName": "Michelle",
@@ -17,6 +16,5 @@
       "emailAddress": "alex@gmail.com",
       "mobile": "+639276714444",
       "address": "Bulacan"
-  }]
-  
-}
+  }
+]
