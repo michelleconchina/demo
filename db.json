@@ -1,5 +1,5 @@
-{
-  { 
+  [
+    { 
       "id": 1,
       "firstName": "Michelle",
       "lastName": "Conchina",
@@ -17,4 +17,4 @@
       "mobile": "+639276714444",
       "address": "Bulacan"
   }
-}
+  ]
