@@ -21,6 +21,28 @@
       "address": "Bulacan",
       "contactPerson": "Alexandra Gaskarth",
       "contactPersonPhoneNumber": "+639234143534"
+  },
+    { 
+      "id": 3,
+      "firstName": "Shari",
+      "lastName": "Conwi",
+      "birthDay": "1995-01-03",
+      "emailAddress": "shari@gmail.com",
+      "mobile": "+6390773492637",
+      "address": "Manila",
+      "contactPerson": "Esther Conwi",
+      "contactPersonPhoneNumber": "+638905365888"
+  },
+    { 
+      "id": 4,
+      "firstName": "Alshey",
+      "lastName": "Micu",
+      "birthDay": "1994-10-12",
+      "emailAddress": "alshey@gmail.com",
+      "mobile": "+63986253744",
+      "address": "Manila",
+      "contactPerson": "Dane Micu",
+      "contactPersonPhoneNumber": "+639893456122"
   }
 ]
 }
