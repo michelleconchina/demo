@@ -69,34 +69,34 @@
 { 
       "id": 7,
       "firstName": "Paul",
-      "lastName": “Klen”,
-      "birthDay": "1991-10-10”,
-      "emailAddress": “paul12@gmail.com",
-      "mobile": "+63986274890”,
-      "address": “Pampanga”,
-      "contactPerson": “Piala Klen”,
-      "contactPersonPhoneNumber": "+6398934123456”
+      "lastName": "Klen",
+      "birthDay": "1991-10-10",
+      "emailAddress": "paul12@gmail.com",
+      "mobile": "+63986274890",
+      "address": "Pampanga",
+      "contactPerson": "Piala Klen",
+      "contactPersonPhoneNumber": "+6398934123456"
   },
     { 
       "id": 8,
-      "firstName": “Mark”,
-      "lastName": “Cruz”,
+      "firstName": "Mark",
+      "lastName": "Cruz",
       "birthDay": "1996-05-04",
-      "emailAddress": “markben@gmail.com",
+      "emailAddress": "markben@gmail.com",
       "mobile": "+6397930492637",
-      "address": “Bulacan”,
-      "contactPerson": “Maria Santos",
+      "address": "Bulacan",
+      "contactPerson": "Maria Santos",
       "contactPersonPhoneNumber": "+639995365888"
   },
 { 
       "id": 9,
-      "firstName": “Kevin”,
-      "lastName": “Perez”,
-      "birthDay": "1992-11-30”,
-      "emailAddress": “kevin@yahoo.com",
+      "firstName": "Kevin",
+      "lastName": "Perez",
+      "birthDay": "1992-11-30",
+      "emailAddress": "kevin@yahoo.com",
       "mobile": "+639123457822",
-      "address": “Pasig”,
-      "contactPerson": “Ser Santos",
+      "address": "Pasig",
+      "contactPerson": "Ser Santos",
       "contactPersonPhoneNumber": "+699985673822"
   }
 ]
