@@ -4,14 +4,14 @@
       "id": 1,
       "firstName": "Michelle",
       "lastName": "Conchina",
-      "birthDay": "1995-11-15",
+      "birthDay": "1994-11-10",
       "emailAddress": "mich@gmail.com",
-      "mobile": "+639276716533",
+      "mobile": "+639546789433",
       "address": "Bulacan",
       "contactPerson": "Alex Gaskarth",
       "contactPersonPhoneNumber": "+639276714444"
   },
-{ 
+    { 
       "id": 2,
       "firstName": "Alex",
       "lastName": "Gaskarth",
@@ -20,7 +20,84 @@
       "mobile": "+639276714444",
       "address": "Bulacan",
       "contactPerson": "Alexandra Gaskarth",
-      "contactPersonPhoneNumber": "+639276714444"
+      "contactPersonPhoneNumber": "+639234143534"
+  },
+    { 
+      "id": 3,
+      "firstName": "Shari",
+      "lastName": "Conwi",
+      "birthDay": "1995-01-03",
+      "emailAddress": "shari@gmail.com",
+      "mobile": "+6390773492637",
+      "address": "Manila",
+      "contactPerson": "Esther Conwi",
+      "contactPersonPhoneNumber": "+638905365888"
+  },
+{ 
+      "id": 4,
+      "firstName": "Alshey",
+      "lastName": "Micu",
+      "birthDay": "1994-10-12",
+      "emailAddress": "alshey@gmail.com",
+      "mobile": "+63986253744",
+      "address": "Manila",
+      "contactPerson": "Dane Micu",
+      "contactPersonPhoneNumber": "+639893456122"
+  },
+    { 
+      "id": 5,
+      "firstName": "Ben",
+      "lastName": "Santos",
+      "birthDay": "1989-04-04",
+      "emailAddress": "ben@gmail.com",
+      "mobile": "+6395473492637",
+      "address": "Manila",
+      "contactPerson": "Sonny Santos",
+      "contactPersonPhoneNumber": "+638905365888"
+  },
+{ 
+      "id": 6,
+      "firstName": "Jobelle",
+      "lastName": "Santos",
+      "birthDay": "1994-11-23",
+      "emailAddress": "jobelle@yahoo.com",
+      "mobile": "+639035267822",
+      "address": "Bulacan",
+      "contactPerson": "Job Santos",
+      "contactPersonPhoneNumber": "+639985673822"
+  },
+{ 
+      "id": 7,
+      "firstName": "Paul",
+      "lastName": “Klen”,
+      "birthDay": "1991-10-10”,
+      "emailAddress": “paul12@gmail.com",
+      "mobile": "+63986274890”,
+      "address": “Pampanga”,
+      "contactPerson": “Piala Klen”,
+      "contactPersonPhoneNumber": "+6398934123456”
+  },
+    { 
+      "id": 8,
+      "firstName": “Mark”,
+      "lastName": “Cruz”,
+      "birthDay": "1996-05-04",
+      "emailAddress": “markben@gmail.com",
+      "mobile": "+6397930492637",
+      "address": “Bulacan”,
+      "contactPerson": “Maria Santos",
+      "contactPersonPhoneNumber": "+639995365888"
+  },
+{ 
+      "id": 9,
+      "firstName": “Kevin”,
+      "lastName": “Perez”,
+      "birthDay": "1992-11-30”,
+      "emailAddress": “kevin@yahoo.com",
+      "mobile": "+639123457822",
+      "address": “Pasig”,
+      "contactPerson": “Ser Santos",
+      "contactPersonPhoneNumber": "+699985673822"
   }
 ]
 }
